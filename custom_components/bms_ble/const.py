@@ -20,6 +20,7 @@ BMS_TYPES: Final[list[str]] = [
     "ej_bms",
     "jbd_bms",
     "jikong_bms",
+    "JK_BMS_ver_19
     "ogt_bms",
     "redodo_bms",
     "renogy_bms",
